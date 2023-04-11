@@ -24,7 +24,7 @@ Virdas store wants to create an annual sales report for there products in 2022. 
 * The Adult age group should be a major target as they contribute to the highest order/sales
 * Amazon is the leading channels
 * The leading cities should have more branches (Maharashtra, Karnataka etc)
-* __Women that are between the ages of 20-49years (Adult) living in Maharashtra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu, should be targeted with ads , coupons and friendly marketing to increase sales in 2023.
+* __Women that are between the ages of 20-49years (Adult) living in Maharashtra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu, should be targeted with ads , coupons and friendly marketing to increase sales in 2023. The recommended channels are Amazon, Myntra , Flipkart, and Ajio
 
 ![The project dashboard](https://github.com/Seped28/Virdas-store-analysis/blob/main/Virdas_1.jpg)
 ![The project dashboard2](https://github.com/Seped28/Virdas-store-analysis/blob/main/Virdas_2.jpg)
